@@ -25,7 +25,7 @@ Each LeetCode problem will have its own directory, labeled with the problem numb
 2. `styles.css`
 3. `index.js`
 
-Open the `problem.html` file in your preferred browser to interact with the solution.
+Open the `index.html` file in your preferred browser to interact with the solution.
 
 ## Contributing
 
