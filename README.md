@@ -21,9 +21,9 @@ The content of this repository is structured as follows:
 
 Each LeetCode problem will have its own directory, labeled with the problem number and name. Inside, you'll find three files:
 
-1. `problem.html`
-2. `style.css`
-3. `solution.js`
+1. `index.html`
+2. `styles.css`
+3. `index.js`
 
 Open the `problem.html` file in your preferred browser to interact with the solution.
 
