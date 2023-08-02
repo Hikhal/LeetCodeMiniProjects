@@ -1,0 +1,62 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    background: linear-gradient(45deg, rgb(0, 247, 144), rgb(0, 0, 255));
+    overflow: hidden;
+    text-align: center;
+    color: white;
+    padding: 20px;
+}
+
+header h1{
+    font-size: 6rem;
+    font-weight: bold;
+}
+
+.note{
+    font-size: 1.8rem;
+}
+.note span{
+    color: rgb(0, 255, 0);
+}
+
+#input{
+    display: block;
+    margin: 0px auto 15px;
+    width: 40%;
+    height: 30px;
+    font-size: 1.5rem;
+    color: indianred;
+}
+
+#submit{
+    font-size: 1.3rem;
+    padding: 10px 40px;
+    border-radius: 8px;
+    border: 0;
+    cursor: pointer;
+    transition: all ease-in-out 0.3s ;
+    &:hover{
+        background-color: aquamarine;
+    }
+}
+
+.solution-container{
+    color: #000;
+    padding: 10px;
+    background-color: white;
+    margin: 20px auto;
+    width: 500px;
+    height: 200px;
+
+}
+.solution-container h1{
+    margin-bottom: 50px;
+}
+
+#answer{
+    font-size: 2rem;
+}
+#answer span{
+    color:rgb(12, 181, 127);
+}
